@@ -31,7 +31,7 @@ public class RobotColorChooser {
 		//5. Use an if/else statement to set the pen color that the user requested
 		
 		 if (color.equals ("red") ) {
-			 rob.setPenColor(10,0,0);
+			 rob.setPenColor(1000,0,0);
 			   // codes
 			}
 			else {
